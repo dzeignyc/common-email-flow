@@ -28,7 +28,6 @@ For users that missed the promise date:
 - The third email is triggered if the user doesn’t schedule a tour within the next 24 hours.
 
 ## What messaging will ensure that the leads feel the email is personalized for them?
-
 The email flow (messages) will ensure that the leads feel the email is personalized for them by utilizing the following information:
 - Their name in the Subject line AND/OR introduction/body of the email
 - Their cancellation or missed promise date.
@@ -36,7 +35,7 @@ The email flow (messages) will ensure that the leads feel the email is personali
 - Their move-in date
 - Name of their tour guide
 
-## Num 3
+## How will your lists be segmented?
 `We’ll segment the 50% of users that either cancel or don’t show up by placing them into their respective segmented groups:
 Cancelled Users
 Ghosted Users`
