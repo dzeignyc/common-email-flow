@@ -1,4 +1,7 @@
 # Common Email Flow
+
+## View this project [here!](https://dzeignyc.github.io/common-email-flow/)
+
 ### `Prompt 1`
 You find out that 50% of people who schedule a tour with us either cancel or don’t show up at the promised date. Devise an email flow consisting of 2 - 3 emails; the objective is to encourage the leads to schedule another tour and ensure they show up. Please be sure to articulate ways in which you would segment this particular group of leads and make this email flow more targeted.
 
